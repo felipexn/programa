@@ -1,5 +1,6 @@
 public class Receita {
-    String farofa = 'ovo e farinha';
+
+ String farofa = "farinha  e ovo ";
 
 
     
